@@ -1,4 +1,4 @@
-# [KetaOps](https://github.com/ketaops)
+# [Ketacea](https://github.com/ketacea)
 
 ## Highlighted Features
 
@@ -21,9 +21,9 @@ The following resources are available:
 
 This distribution is supported on and packaged for a variety of platforms including:
 - Docker:
-  - [Docker Compose](https://github.com/ketaops/docker-compose)
+  - [Docker Compose](https://github.com/ketacea/docker-compose)
 - Kubernetes
-  - [Helm (recommended)](https://github.com/ketaops/helm-charts)
+  - [Helm (recommended)](https://github.com/ketacea/helm-charts)
 - Linux
   - Configuration management (recommended for multi-host production environments)
-    - [Ansible](https://github.com/ketaops/ansible)
+    - [Ansible](https://github.com/ketacea/ansible)
